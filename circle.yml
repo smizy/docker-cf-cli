@@ -48,4 +48,4 @@ deployment:
       - docker push smizy/cf-cli:${TAG_MAJOR}
       - docker push smizy/cf-cli:latest
       - docker logout
-      - curl -X POST 'https://hooks.microbadger.com/images/smizy/cf-cli/kt4cBzU-RiGizff2lIWPLX61Dz8='
+      - curl -X POST 'https://hooks.microbadger.com/images/smizy/cf-cli/ZRNsTx2MKjMscEpUPyJdxiwg6F4='
